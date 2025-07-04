@@ -55,9 +55,15 @@ In the initial phase of the data cleaning and preparations, i performed the foll
    - Ensured correct data types (numbers, text, general)
    - Created calculated columns: Discounted_Price, Revenue, Price_Bucket
 
+![CLEAN DATA](https://github.com/user-attachments/assets/ce16cfd2-f346-453b-93b9-71194e7b686b)
+
+
 ## Exploratory Data Analysis
 - Average Discount % by Category
-   - 
+
+![1  AVERAGE DISCOUNT PERCENTAGE BY PRODUCT CATEGORY](https://github.com/user-attachments/assets/9ee0906c-68f2-4dbf-9804-957333d822dc)
+
+
 - Total Reviews per Category
 - Top Reviewed Products
 - Average Rating per Category
