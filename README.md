@@ -71,15 +71,38 @@ In the initial phase of the data cleaning and preparations, i performed the foll
   
 [2 products per category](https://github.com/user-attachments/assets/85dae2cb-deea-47f7-9c2f-f6d096f181f5)
 
-  
--  ### Top Reviewed Products,
--  ### Product ratings Distributions,
--  ### Products with ≥50% Discount,
--  ### Total Revenue by Category,
--  ### Unique Products by Price ange,
--  ### Relationship between rating count and discount level
+- ### Top 10 Highest Average Rated Products
+
+This chart identifies the top 10 products with the highest average customer ratings. These are standout performers in terms of quality or satisfaction, which could be prioritized for promotion or further product development.
+
+- ### Average Actual Price vs Discounted Price by Category
+
+This visual compares the average original prices of products to their discounted prices across categories. It highlights how much value is being offered to customers and which categories provide deeper price cuts.
+
+
+- ### Top Reviewed Products
+
+This table ranks products by the number of customer reviews received. The most-reviewed products likely represent best sellers or highly engaged items that resonate with customers.
+
+-  ### Products with 50% Discount or More
+
+This count reveals that **662** products received discounts of 50% or more. This may indicate clearance strategies or aggressive pricing used to boost sales.
+
+
+- ### Product Rating Distribution
+
+This bar chart breaks down how products are rated — showing how many products fall under each star rating (from 1 to 5). The  high count in the 4–5 range suggests good overall customer satisfaction.
+
+
+- ### Total Potential Revenue by Category
+
+Using available price data and review volume as a proxy for demand, this chart estimates potential revenue by category. *Electronics* and *Home & Kitchen* appear to generate the highest revenue opportunities.
   
 [VISUALISATION_DASHBOARD](https://github.com/user-attachments/assets/ae9d4fb5-62de-4144-9658-ade9645c177e)
+
+[PIVOT TABLES](https://github.com/user-attachments/assets/ca5a2aad-ad4d-4762-a3c8-c6255953f5d6)
+
+
 
 ## Dashboard Features
 Fully interactive Excel dashboard
