@@ -22,9 +22,9 @@ Analyze e-commerce product reviews to discover patterns in:
     - for data cleaning
     - Data manipulation
 - Pivot Tables
+     - For data Summarization ( totals, averages, counts).
 - Conditional Formatting
-- Excel Functions (`IF`, `RIGHT`, `MID`, `TEXTSPLIT`, `COUNTA`, etc.)
-- Bar, Column, and Pie
+    - Using Excel Functions (`IF`, `RIGHT`, `MID`, `TEXTSPLIT`, `COUNTA`, etc.)
 - Slicers for interactivity
 
 ---
@@ -46,13 +46,14 @@ Amazon-product-analysis/
     └── data_cleaning_notes.md
 ```
 
-## Data Cleaning Summary
-- Removed spaces, typos, and irrelevant characters
-- standardized category and product names
-- Extracted key values using formula logic (e.g., last word after pipe delimiter)
-- Removed duplicates
-- Ensured correct data types (numbers, text, general)
-- Created helper columns: Discounted_Price, Revenue, Price_Bucket
+## Data Cleaning 
+In the initial phase of the data cleaning and preparations, i performed the following actions;
+   - Removed empty spaces, typos, and irrelevant characters
+   - Standardized category and product names Using the function `PROPER`, and then proceded in making all my first rows headers
+   - Extracted key values using formula logic (e.g., last word after pipe delimiter) and `mid and find` functions
+   - Removed duplicates
+   - Ensured correct data types (numbers, text, general)
+   - Created calculated columns: Discounted_Price, Revenue, Price_Bucket
 
 ## Key Visualizations
 - Average Discount % by Category
