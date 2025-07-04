@@ -61,10 +61,10 @@ In the initial phase of the data cleaning and preparations, i performed the foll
 ## Exploratory Data Analysis
 - Average Discount % by Category
 
-![1  AVERAGE DISCOUNT PERCENTAGE BY PRODUCT CATEGORY](https://github.com/user-attachments/assets/9ee0906c-68f2-4dbf-9804-957333d822dc)
-
+[1  AVERAGE DISCOUNT PERCENTAGE BY PRODUCT CATEGORY](https://github.com/user-attachments/assets/9ee0906c-68f2-4dbf-9804-957333d822dc)
 
 - Total Reviews per Category
+  ![2 products per category](https://github.com/user-attachments/assets/85dae2cb-deea-47f7-9c2f-f6d096f181f5)
 - Top Reviewed Products
 - Average Rating per Category
 - Ratings Distributions
