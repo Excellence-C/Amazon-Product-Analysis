@@ -112,7 +112,11 @@ Insightful comparisons between pricing, reviews, and ratings
 Structured for storytelling and business decision-making
 
 ## Outcome
-My dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code. Here is my finished work file. 
+
+This Excel dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code.  I was able to explore product listings, discount strategies, customer behavior, and category-level performance. 
+Conclusively, I have gained experience in; Data wrangling (cleaning, formatting, transforming), Pivot Table analysis, Business-focused storytelling through visuals. This case study not only strengthens my data analysis skills but also demonstrates how spreadsheet tools can be used to drive decision-making in real-world business contexts — especially in e-commerce.
+
+Here is my finished work file. 
 [Amazon case study WORKED ON.xlsx](https://github.com/user-attachments/files/21068573/Amazon.case.study.WORKED.ON.xlsx)
 
 
