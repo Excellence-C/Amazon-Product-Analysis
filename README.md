@@ -59,21 +59,26 @@ In the initial phase of the data cleaning and preparations, i performed the foll
 
 
 ## Exploratory Data Analysis
-- Average Discount % by Category
+- ### Average Discount % by Category
+  
     This chart compares the average discount percentage across different product categories. some categories recied higher discounts while others rarely do. in my analysis i discovered that Homeimprovement category got the hightest discount (58%). which helps me to understand that the products in this category are most price sensitive.
+  
 [1  AVERAGE DISCOUNT PERCENTAGE BY PRODUCT CATEGORY](https://github.com/user-attachments/assets/9ee0906c-68f2-4dbf-9804-957333d822dc)
 
-- Total Reviews per Category
+-  ### Total Reviews per Category
+
   This chart shows how many review each category recieved. from my analysis i have come to realise that categories such as Electronics have much higher customer engagement than  others which indicates frequently purchased items and in turn potentially drives hiher sales.
-  [2 products per category](https://github.com/user-attachments/assets/85dae2cb-deea-47f7-9c2f-f6d096f181f5)
+  
+[2 products per category](https://github.com/user-attachments/assets/85dae2cb-deea-47f7-9c2f-f6d096f181f5)
 
   
-- Top Reviewed Products,
-- Product ratings Distributions,
-- Products with ≥50% Discount,
--  Total Revenue by Category,
--  Unique Products by Price ange,
--  Relationship between rating count and discount level
+-  ### Top Reviewed Products,
+-  ### Product ratings Distributions,
+-  ### Products with ≥50% Discount,
+-  ### Total Revenue by Category,
+-  ### Unique Products by Price ange,
+-  ### Relationship between rating count and discount level
+  
 [VISUALISATION_DASHBOARD](https://github.com/user-attachments/assets/ae9d4fb5-62de-4144-9658-ade9645c177e)
 
 ## Dashboard Features
