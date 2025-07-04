@@ -43,12 +43,12 @@ Amazon-product-analysis/
 ```
 
 ## Data Cleaning Summary
-• Removed spaces, typos, and irrelevant characters
-• Standardized category and product names
-• Extracted key values using formula logic (e.g., last word after pipe delimiter)
-• Removed duplicates
-• Ensured correct data types (numbers, text, general)
-• Created helper columns: Discounted_Price, Revenue, Price_Bucket
+- Removed spaces, typos, and irrelevant characters
+- standardized category and product names
+- Extracted key values using formula logic (e.g., last word after pipe delimiter)
+- Removed duplicates
+- Ensured correct data types (numbers, text, general)
+- Created helper columns: Discounted_Price, Revenue, Price_Bucket
 
 ## Key Visualizations
 - Average Discount % by Category
@@ -61,3 +61,20 @@ Amazon-product-analysis/
 - Top 5 Products by Rating
 - Total Revenue by Category
 - Unique Products by Price Bucket
+- Actual vs Discounted Price by Category
+- Product with Highest Discount
+
+## Dashboard Features
+Fully interactive Excel dashboard
+
+Insightful comparisons between pricing, reviews, and ratings
+
+Structured for storytelling and business decision-making
+
+## Outcome
+This project showcases Excel's full potential for data storytelling. The dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code.
+
+Author
+Excellence C.
+Data Analyst | Chemist | Photographer
+LinkedIn: 
