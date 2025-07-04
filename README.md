@@ -5,7 +5,7 @@ This project explores product review data from an online store (Amazon) and tran
 ---
 
 ## Data Source
-Excel.Xlsx file
+- Microsoft Excel (2019) [download here](https://www.microsoft.com/en-ng)
 
 ## Objective
 
@@ -18,8 +18,9 @@ Analyze e-commerce product reviews to discover patterns in:
 ---
 
 ## Tools Used
-
-- Microsoft Excel (2019)
+- Ms Excel
+    - for data cleaning
+    - Data manipulation
 - Pivot Tables
 - Conditional Formatting
 - Excel Functions (`IF`, `RIGHT`, `MID`, `TEXTSPLIT`, `COUNTA`, etc.)
