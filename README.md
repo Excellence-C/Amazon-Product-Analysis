@@ -55,8 +55,9 @@ In the initial phase of the data cleaning and preparations, i performed the foll
    - Ensured correct data types (numbers, text, general)
    - Created calculated columns: Discounted_Price, Revenue, Price_Bucket
 
-## Key Visualizations
+## Exploratory Data Analysis
 - Average Discount % by Category
+   - 
 - Total Reviews per Category
 - Top Reviewed Products
 - Average Rating per Category
