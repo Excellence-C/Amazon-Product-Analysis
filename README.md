@@ -75,6 +75,9 @@ Structured for storytelling and business decision-making
 This project showcases Excel's full potential for data storytelling. The dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code.
 
 Author
+
 Excellence C.
+
 Data Analyst | Chemist | Photographer
-LinkedIn: 
+
+LinkedIn: https://www.linkedin.com/in/excellence-c-14b784267?trk=contact-info
