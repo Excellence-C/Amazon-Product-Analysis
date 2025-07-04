@@ -89,7 +89,9 @@ Insightful comparisons between pricing, reviews, and ratings
 Structured for storytelling and business decision-making
 
 ## Outcome
-This project showcases Excel's full potential for data storytelling. The dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code.
+My dashboard offers actionable insights for Amazon's marketing team, pricing strategists, and product managers — all without a single line of code. Here is my finished work file. 
+[Amazon case study WORKED ON.xlsx](https://github.com/user-attachments/files/21068573/Amazon.case.study.WORKED.ON.xlsx)
+
 
 Author
 
