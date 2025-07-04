@@ -55,26 +55,16 @@ In the initial phase of the data cleaning and preparations, i performed the foll
    - Ensured correct data types (numbers, text, general)
    - Created calculated columns: Discounted_Price, Revenue, Price_Bucket
 
-![CLEAN DATA](https://github.com/user-attachments/assets/ce16cfd2-f346-453b-93b9-71194e7b686b)
+[CLEAN DATA](https://github.com/user-attachments/assets/ce16cfd2-f346-453b-93b9-71194e7b686b)
 
 
 ## Exploratory Data Analysis
 - Average Discount % by Category
-
 [1  AVERAGE DISCOUNT PERCENTAGE BY PRODUCT CATEGORY](https://github.com/user-attachments/assets/9ee0906c-68f2-4dbf-9804-957333d822dc)
-
 - Total Reviews per Category
   ![2 products per category](https://github.com/user-attachments/assets/85dae2cb-deea-47f7-9c2f-f6d096f181f5)
-- Top Reviewed Products
-- Average Rating per Category
-- Ratings Distributions
-- Rating Count vs Discount % (Scatter Plot)
-- Products with ≥50% Discount
-- Top 5 Products by Rating
-- Total Revenue by Category
-- Unique Products by Price Bucket
-- Actual vs Discounted Price by Category
-- Product with Highest Discount
+- Top Reviewed Products, Product ratings Distributions, Products with ≥50% Discount, Total Revenue by Category, Unique Products by Price ange, Relationship between rating count and discount level
+[VISUALISATION_DASHBOARD](https://github.com/user-attachments/assets/ae9d4fb5-62de-4144-9658-ade9645c177e)
 
 ## Dashboard Features
 Fully interactive Excel dashboard
