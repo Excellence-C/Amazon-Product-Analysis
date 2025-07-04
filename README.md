@@ -4,6 +4,9 @@ This project explores product review data from an online store (Amazon) and tran
 
 ---
 
+## Data Source
+Excel.Xlsx file
+
 ## Objective
 
 Analyze e-commerce product reviews to discover patterns in:
